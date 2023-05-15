@@ -22,7 +22,7 @@ void mahasiswa::setID() {
 void mahasiswa::printAll() {
 	cout << "ID = " << id << endl;
 	cout << "Nama = " << nama << endl; 
-	cout << endl;
+	cout << endl; 
 }
 int main() {
 	mahasiswa mhs1("andi irawan");
