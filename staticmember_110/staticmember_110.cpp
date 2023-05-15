@@ -15,7 +15,7 @@ public:
 };
 int mahasiswa::nim = 0;
 
-void mahasiswa::setID() {
+void mahasiswa::setID() { 
 	id = ++nim;
 }
 
